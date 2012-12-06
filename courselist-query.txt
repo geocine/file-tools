@@ -1,4 +1,4 @@
-Pluralsight
+PS
 
 var s = "";
 $.each($(".tocClips a:visible"), function(index, value) { 
@@ -6,7 +6,7 @@ $.each($(".tocClips a:visible"), function(index, value) {
 });
 alert(s);
 
-Lynda
+LY
 
 var s = "";
 
