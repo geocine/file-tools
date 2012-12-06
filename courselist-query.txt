@@ -1,0 +1,16 @@
+Pluralsight
+
+var s = "";
+$.each($(".tocClips a:visible"), function(index, value) { 
+    s += $(value).text() + "\n";
+});
+alert(s);
+
+Lynda
+
+var s = "";
+
+$.each($(".vt:visible"), function(index, value) { 
+    s += $(value).text().replace(/(?:(?:^|\n)\s+|\s+(?:$|\n))/g,'') + "\n";
+});
+alert(s);
