@@ -1,4 +1,4 @@
-##File Tools##
+## File Tools
 
 **Legend**
 * copycreate - creates sequenced dummy files with a given extension from `courselist.txt`
