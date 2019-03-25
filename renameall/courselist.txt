@@ -1,0 +1,18 @@
+Introduction
+Animation Basics
+Creating a Sprite Sheet
+Adding Animations
+Creating an Animation Constructor
+Updating the Animations
+Drawing the Animations
+Animating the Ship
+More Animations
+Explosions!
+Creating the Explosion Manager
+Using the Explosion Manager
+Updating Explosions
+Drawing the Explosion
+Handling Dead Shots
+Exploding the Player
+Clean Up
+Summary
