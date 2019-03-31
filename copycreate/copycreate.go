@@ -30,8 +30,6 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Println(lines[0])
-
 	for i := 0; i < len(lines); i++ {
 		fileName := fmt.Sprintf("%02d - %s.%s", i+1, lines[i], *extension)
 		fmt.Println(fileName)
