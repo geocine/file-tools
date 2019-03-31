@@ -1,6 +1,6 @@
 ## File Tools
 
-This is the C/C++ version which was first written on December 2012 
+This is currently being rewritten to Go [from C/C++](https://github.com/geocine/file-tools/tree/cpp)
 
 **Legend**
 * copycreate - creates sequenced dummy files with a given extension from `courselist.txt`
